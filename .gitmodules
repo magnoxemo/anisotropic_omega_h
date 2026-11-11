@@ -1,0 +1,3 @@
+[submodule "contrib/omega_h"]
+	path = contrib/omega_h
+	url = https://github.com/SCOREC/omega_h.git
