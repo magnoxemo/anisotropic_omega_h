@@ -1,3 +1,6 @@
 [submodule "contrib/omega_h"]
 	path = contrib/omega_h
 	url = https://github.com/SCOREC/omega_h.git
+[submodule "contrib/seacas"]
+	path = contrib/seacas
+	url = https://github.com/sandialabs/seacas.git
